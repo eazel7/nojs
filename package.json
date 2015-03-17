@@ -13,7 +13,5 @@
     "mocha": "^2.2.1"
   },
   "dependencies": {
-    "mongodb": "^1.4.34",
-    "nedb": "^1.1.1"
   }
 }
